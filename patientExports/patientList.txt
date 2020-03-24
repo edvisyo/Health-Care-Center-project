@@ -1,0 +1,11 @@
+Array
+(
+    [0] => Array
+        (
+            [vardas] => Martynas
+            [pavarde] => Jurkus
+            [gimimo_data] => 1993-02-11
+            [asmens_kodas] => 123456
+        )
+
+)
